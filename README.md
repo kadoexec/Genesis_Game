@@ -1,2 +1,2 @@
-# DIO-GENESIS
-Jogo genesis
+# GENESIS
+Game Genesis, decore as cores e pontue.
